@@ -1,3 +1,4 @@
 # addopenvpn
 自动docker下创建openvpn（auto create docker openvpn）
-sh addopenvpn.sh <add|install|del> [user]
+
+运行（run）：sh addopenvpn.sh <add|install|del> [user]
